@@ -1,0 +1,9 @@
+server:  
+  port: 10000
+  tomcat.uri-encoding: UTF-8
+  session-timeout: 30
+data:  
+  mongodb:  
+    database: test  
+    host: localhost
+    port: 27017
